@@ -47,7 +47,7 @@ const Footer = () => {
                         </ul>
                     </div>
                 </div>
-                <h2 className='mt-5 text-center shadow py-5'> This website is made with ❤️ by ΛK⚡HΛY</h2>
+                <h2 className='mt-5 text-center shadow py-5'> This website is made with ❤️ by D.N.SATHVARA</h2>
             </div>
         </>
     )
